@@ -107,12 +107,10 @@ A management platform designed to **simplify turf booking and management**, maki
   <img src="https://streak-stats.demolab.com?user=Puveesh&theme=tokyonight&hide_border=true" />
 </p> -->
 
----
-
 ### 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Puveesh&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Puveesh&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
