@@ -4,7 +4,7 @@
 
 I'm a **college student and developer from India** who enjoys turning ideas into working products.
 
-I like building projects that combine **software, AI, IoT, data, and clean user interfaces** — especially projects that solve practical, real-world problems.
+I like building projects that combine **software, AI, IoT, data, and clean user interfaces** to solve practical, real-world problems.
 
 > **"Build it. Break it. Understand it. Make it better."**
 
@@ -13,166 +13,112 @@ I like building projects that combine **software, AI, IoT, data, and clean user 
 ## 🚀 What I'm Interested In
 
 * 🤖 Artificial Intelligence & Machine Learning
-* 💻 Full-Stack Web Development
-* 🔐 Backend Development & Authentication
+* 💻 Full-Stack & Backend Development
+* ☁️ Cloud & AWS
 * 🌐 IoT & Smart Systems
-* 📊 Data Analytics & Prediction
+* 📊 Data & Automation
 * 🎨 UI/UX & Product Design
 * 🎵 Music Production & Audio Technology
 
 ---
 
-## 🛠️ Tech I Work With
+## 🛠️ Tech Stack
 
-### Languages
+### 💻 Languages
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![C++](https://img.shields.io/badge/C++-A8B9CC?style=for-the-badge\&logo=c\&logoColor=black)
 
-### Web & Backend
+### 🌐 Frontend
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge\&logo=vite\&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
 
-### Database & Cloud
+### ⚙️ Backend
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+
+### 🗄️ Databases
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge\&logo=sqlite\&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge\&logo=supabase\&logoColor=3ECF8E)
+
+### ☁️ Cloud & Tools
+
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
-
-### Tools
-
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+![Thunder Client](https://img.shields.io/badge/Thunder_Client-6C47FF?style=for-the-badge\&logo=thunderclient\&logoColor=white)
 
 ---
 
-## 🔨 Things I've Built
+## 🔨 Projects
 
-### 🌦️ Micro-Weather Based Farming System
+### 🌐 Portfolio
 
-An IoT-based local weather monitoring and prediction system designed to provide farmers with **localized weather information and useful farming alerts**.
+A personal portfolio website showcasing my **skills, projects, experience, and development journey**.
 
-**Built with:** ESP8266 • BME680 • Sensors • Python • ML • Web Dashboard
+### ☁️ AWS Nova Sprint
 
----
+A cloud and AI-focused project built as part of the **AWS Nova Sprint**, exploring AWS technologies and AI-powered solutions.
 
-### 🚚 Food Truck Vendor Management System
+### 🚚 Food Truck Vendor
 
-A full-stack backend system for managing food truck vendors, featuring **authentication, authorization, JWT security, CRUD operations, database integration, validation, exception handling and API documentation**.
+A **Spring Boot backend application** for managing food truck vendors with JWT authentication, authorization, CRUD operations, MySQL, validation, and Swagger API documentation.
 
-**Built with:** Java • Spring Boot • MySQL • JWT • Spring Security • Swagger
+### 🎵 SONIQ
 
----
+A project focused on **music and audio technology**, exploring ideas around modern music experiences and production workflows.
 
-### 🤖 AI Companion
+### 💬 Chatting App
 
-A personal AI companion concept focused on creating a **simple, usable and engaging interface** for interacting with an AI assistant.
+A real-time **chat application** focused on seamless communication, authentication, and a clean user experience.
 
-**Built with:** React • Vite • AI APIs • Modern UI/UX
+### ⚽ Turf Management System
 
----
-
-### 📚 Smart Notes & Study Hub
-
-An AI-powered study platform concept that can transform uploaded study material into **summaries, important questions, mock tests and AI-assisted corrections**.
-
-**Focus:** AI • Education • Document Analysis • Personalized Learning
+A management platform designed to **simplify turf booking and management**, making reservations and operations easier for users and administrators.
 
 ---
 
-### 🎵 Music Production Tools
-
-I also enjoy experimenting with software ideas around **music production, song structure, arrangement analysis and audio workflows**.
-
-I'm particularly interested in using technology to make music-production workflows faster and more intelligent.
-
----
-
-## 🧠 How I Like to Build
-
-```text
-💡 Idea
-   ↓
-🔍 Understand the Problem
-   ↓
-🎨 Design the Experience
-   ↓
-⚙️ Build the System
-   ↓
-🧪 Test & Break It
-   ↓
-🔧 Improve It
-   ↓
-🚀 Ship It
-```
-
-I enjoy projects where I can work across the entire process — from **problem identification and UI design to backend development, databases, AI and deployment**.
-
----
-
-## 📈 Currently Learning
-
-* Advanced Spring Boot & Spring Security
-* JWT & Backend Architecture
-* AI/ML integration into applications
-* Cloud technologies
-* System design
-* Better UI/UX principles
-* Audio technology & music-production workflows
-
----
-
-## 🎯 My Goal
-
-To become a developer who doesn't just **write code**, but can take an idea from:
-
-**Problem → Concept → Design → Development → Deployment**
-
-and turn it into something people can actually use.
-
----
-
-## 🎵 Beyond Code
-
-When I'm not coding, you'll probably find me experimenting with:
-
-🎧 Music production
-🎹 Chord progressions & arrangements
-🎛️ Audio plugins & production workflows
-💡 New product ideas
-
----
-
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Puveesh&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Puveesh&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Puveesh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Puveesh&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Puveesh&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ## 🤝 Let's Connect
 
-I'm always interested in **building, learning, experimenting and collaborating on interesting ideas**.
-
 <p align="center">
   <a href="https://github.com/Puveesh">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+   <a href="https://puveeshportfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
   <a href="https://www.linkedin.com/in/puveesh-keshav-m-24475b309">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-   <!-- <a href="">
-      <img src=""/>
-   </a> -->
+  <a href="mailto:manopappu388@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/_.prodbypuvee._?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
 </p>
 
 ---
