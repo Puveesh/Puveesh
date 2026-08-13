@@ -10,6 +10,14 @@ I like building projects that combine **software, AI, IoT, data, and clean user 
 
 ---
 
+### 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Puveesh&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
 ## 🚀 What I'm Interested In
 
 * 🤖 Artificial Intelligence & Machine Learning
@@ -95,23 +103,6 @@ A real-time **chat application** focused on seamless communication, authenticati
 ### ⚽ Turf Management System
 
 A management platform designed to **simplify turf booking and management**, making reservations and operations easier for users and administrators.
-
----
-
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Puveesh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Puveesh&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Puveesh&theme=tokyonight&hide_border=true" />
-</p> -->
-
-### 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Puveesh&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
